@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @joseluis57355
-- 👀 I’m interested in programming and games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a small project
-- 📫 How to reach me joseluis57355@gmail.com
+```javascript 
+const Name = "Jose Luis Sanchez";
+const Contact = "joseluis57355@gmail.com";
+const Age = 22;
+const Location = "Valencia";
 
-<!---
-joseluis57355/joseluis57355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const KeepCoding = { 
+  code: [ 
+    "Spring Boot", "Java", "JavaScript", "PHP";
+    ],
+  front: [ 
+    "ZK", "HTML", "CSS", "SCSS";
+    ],
+  databases: [
+    "MySql", "Oracle";
+    ],
+  technologies: [
+    "IntelliJ", "Eclipse", "Visual Studio Code",
+    "Maven", "SonarList", "TortoiseSVN";
+    ],
+  studies: [
+    //2017 - 2019
+    "GM. Sistemas Microinformaticos y Redes", 
+    //2019 - 2021
+    "GS.Desarrollo de Aplicaciones Web";
+  ],
+  experience: [
+    //Indra Sistemas: 03/2021 until present
+    "Spring Boot", "ZK", "CSS", "Maven", 
+    "IntelliJ", "SonarList", "TortoiseSVN", 
+    "Jira", "Oracle";
+    ];
+  },
+}; 
+``` 
