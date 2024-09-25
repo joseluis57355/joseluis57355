@@ -1,7 +1,6 @@
 ```javascript 
 const Name = "Jose Luis Sanchez";
 const Contact = "joseluis57355@gmail.com";
-const Age = 22;
 const Location = "Valencia";
 
 const KeepCoding = { 
