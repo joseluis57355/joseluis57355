@@ -24,10 +24,13 @@ const KeepCoding = {
     "GS.Desarrollo de Aplicaciones Web";
   ],
   experience: [
-    //Indra Sistemas: 03/2021 until present
+    Indra Sistemas: //03/2021 until 02/2023
     "Spring Boot", "ZK", "CSS", "Maven", 
     "IntelliJ", "SonarList", "TortoiseSVN", 
     "Jira", "Oracle";
+    //Insuit: 02/2023 until 09/2024
+    "Java", "JavaScript", "CSS",
+    "Accesibility", "Jira";
     ];
   },
 }; 
