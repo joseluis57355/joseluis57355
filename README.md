@@ -4,20 +4,20 @@ const Contact = "joseluis57355@gmail.com";
 const Location = "Valencia";
 
 const KeepCoding = { 
-  code: [ 
-    "Spring Boot", "Java", "JavaScript", "PHP";
+  back: [ 
+    "Spring Boot", "Java", "JavaScript", "Python", "PHP";
     ],
   front: [ 
     "ZK", "HTML", "CSS", "SCSS";
     ],
-  databases: [
+  database: [
     "MySql", "Oracle";
     ],
-  technologies: [
+  technology: [
     "IntelliJ", "Eclipse", "Visual Studio Code",
     "Maven", "SonarList", "TortoiseSVN";
     ],
-  studies: [
+  study: [
     //2017 - 2019
     "GM. Sistemas Microinformaticos y Redes", 
     //2019 - 2021
