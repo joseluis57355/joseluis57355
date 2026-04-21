@@ -1,37 +1,41 @@
-```javascript 
-const Name = "Jose Luis Sanchez";
-const Contact = "joseluis57355@gmail.com";
-const Location = "Valencia";
+```javascript
+<!-- HEADER BADGES -->
+[![GitHub](https://img.shields.io/badge/GitHub-JoseLuis57355-blue?logo=github)](https://github.com/joseluis57355)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-green)]()
+[![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-orange)]()
 
-const KeepCoding = { 
-  back: [ 
-    "Spring Boot", "Java", "JavaScript", "Python", "PHP";
-    ],
-  front: [ 
-    "ZK", "HTML", "CSS", "SCSS";
-    ],
-  database: [
-    "MySql", "Oracle";
-    ],
-  technology: [
-    "IntelliJ", "Eclipse", "Visual Studio Code",
-    "Maven", "SonarList", "TortoiseSVN";
-    ],
-  study: [
-    //2017 - 2019
-    "GM. Sistemas Microinformaticos y Redes", 
-    //2019 - 2021
-    "GS.Desarrollo de Aplicaciones Web";
-  ],
-  experience: [
-    Indra Sistemas: //03/2021 until 02/2023
-    "Spring Boot", "ZK", "CSS", "Maven", 
-    "IntelliJ", "SonarList", "TortoiseSVN", 
-    "Jira", "Oracle";
-    //Insuit: 02/2023 until 09/2024
-    "Java", "JavaScript", "CSS",
-    "Accesibility", "Jira";
-    ];
+<!-- SKILL BADGES -->
+[![Java](https://img.shields.io/badge/Skills-Java-red?logo=openjdk)](https://www.java.com)
+[![Spring Boot](https://img.shields.io/badge/Skills-Spring%20Boot-6DB33F?logo=spring-boot)]()
+
+/*═══════════════════════════════════════════════════════════*/
+/*  JOSE LUIS SÁNCHEZ TÉBAR — BACKEND DEVELOPER            */
+/*═══════════════════════════════════════════════════════════*/
+
+const JoseLuis = {
+  role: "Backend Developer | Java & Spring Boot",
+  location: "Valencia, España 🇪🇸",
+  experience: "3+ años",
+  
+  skills: {
+    backend: ["Java", "Spring Boot", "Microservicios"],
+    database: ["Oracle", "PostgreSQL", "MySQL"],
+    devops: ["Docker", "AWS"],
+    tools: ["IntelliJ IDEA", "Maven", "JUnit"]
   },
-}; 
+
+  timeline: [
+    { company: "Insuit", role: "Desarrollador Web", period: "2023-2024" },
+    { company: "Indra Sistemas", role: "Desarrollador Software", period: "2021-2023" },
+    { company: "Kuresaare Ametikool", role: "Técnico Sistemas (Erasmus+)", period: "2019" }
+  ],
+
+  contact: {
+    email: "joseluis57355@gmail.com",
+    github: "https://github.com/joseluis57355"
+  },
+
+  status: "🟢 Disponible para nuevas oportunidades"
+};
+
 ``` 
