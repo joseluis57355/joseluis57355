@@ -14,7 +14,7 @@
 
 const JoseLuis = {
   role: "Backend Developer | Java & Spring Boot",
-  location: "Valencia, España 🇪🇸",
+  location: "Picanya, Valencia",
   experience: "3+ años",
   
   skills: {
